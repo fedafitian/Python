@@ -17,7 +17,7 @@ while True:
 
 	# Check if correct
 	if guess == aRandomNumber:
-		print("You go it!")
+		print("You got it!")
 		break
 
 	# Check if out of tries
