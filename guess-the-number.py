@@ -3,7 +3,8 @@ from random import *
 #Generates a random integer.
 aRandomNumber = randint(1, 20)
 
-# For Testing: print(aRandomNumber)
+# For Testing:
+print(aRandomNumber)
 
 numTries = 0
 while True:
