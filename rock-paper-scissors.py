@@ -13,7 +13,7 @@ user_choice = user_choice.lower() #this converts whatever the user types into al
 #User Choice
 if user_choice == 'rock' or 'paper'or 'scissors':
     user_choice = user_choice.lower()
-    print "The computer has drawm %s whilst you have drawn %s" % (computer_choice, user_choice)
+    print "The computer has drawn %s whilst you have drawn %s" % (computer_choice, user_choice)
 
 if user_choice != 'rock' or 'paper' or 'scissors':
     print("Sorry, please try again")
